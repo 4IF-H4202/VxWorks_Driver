@@ -4,3 +4,5 @@
     Specification & implementation of a driver for simple simulated sensors, for VxWorks systems.
     
     (French Language used)
+    
+  by Nicolas PHAN & Benjamin PLANCHE
